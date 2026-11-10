@@ -1,0 +1,6 @@
+{
+  "name": "Super Mario Sosiologi XI",
+  "description": "Kuis interaktif pembelajaran Sosiologi Kelas XI berbasis game Super Mario Bros untuk materi Kelompok Sosial dan Permasalahan Sosial Akibat Pengelompokan Sosial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

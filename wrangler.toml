@@ -1,0 +1,7 @@
+name = "super-mario-sosiologi"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "./dist"
+
+[vars]
+TEACHER_EMAIL = "uripsupandi99@admin.sma.belajar.id"
+APP_NAME = "Super Mario Sosiologi XI"
